@@ -11,3 +11,7 @@ Wanna see my publicly released plugins? Feel free to check them out [here](https
 ### Contact
 
 **Email:** goldcodesmc@gmail.com
+
+## Note
+
+This page is currently under Development
