@@ -2,7 +2,7 @@
 
 ## Languages
 
-Java, Go, C++, SQL
+Java, Go, C#
 
 ## MC Plugins
 
